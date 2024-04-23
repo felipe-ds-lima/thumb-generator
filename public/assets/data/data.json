@@ -1,0 +1,516 @@
+[
+  {
+    "title": {
+      "text": "Factorio",
+      "fontColor": "#ff0000",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "150"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#ff0000",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#ff0000"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "gradient",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(0,0,50,0.5)",
+      "color2": "rgba(50,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "COMEÇAR NO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "255"
+    },
+    "bigText": {
+      "text": "COMO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "160"
+    }
+  },
+  {
+    "title": {
+      "text": "Satisfactory",
+      "fontColor": "#FFBE0B",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "150"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#FFBE0B",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#FFBE0B"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.2)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "DESERTO!",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "98",
+      "positionX": "100",
+      "positionY": "229"
+    },
+    "bigText": {
+      "text": "FABRICAS NO MEIO DO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "62",
+      "positionX": "100",
+      "positionY": "130"
+    }
+  },
+  {
+    "title": {
+      "text": "Rim World",
+      "fontColor": "#8338EC",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "150"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#8338EC",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#8338EC"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.2)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "VAMPIRO!",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "98",
+      "positionX": "100",
+      "positionY": "229"
+    },
+    "bigText": {
+      "text": "A SEITA DO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "62",
+      "positionX": "100",
+      "positionY": "130"
+    }
+  },
+  {
+    "title": {
+      "text": "CITIES SKYLINES",
+      "fontColor": "#00ffd9",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "150"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#00ffd9",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#00ffd9"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "gradient",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(0,50,50,0.2)",
+      "color2": "rgba(0,0,50,0.2)"
+    },
+    "smallText": {
+      "text": "COMEÇAR NO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "255"
+    },
+    "bigText": {
+      "text": "COMO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "160"
+    }
+  },
+  {
+    "title": {
+      "text": "Cap of industry",
+      "fontColor": "#f6d24e",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "135"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#f6d24e",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#f6d24e"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.3)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "COMO COMEÇAR",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "120"
+    },
+    "bigText": {
+      "text": "BEM NO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "210"
+    }
+  },
+  {
+    "title": {
+      "text": "Cities Skylines 2",
+      "fontColor": "#8ee422",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "139"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#8ee422",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#8ee422"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(142,228,34,0.01)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "COMO COMEÇAR",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "128"
+    },
+    "bigText": {
+      "text": "BEM NO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "218"
+    }
+  },
+  {
+    "title": {
+      "text": "Project Hospital",
+      "fontColor": "#43afff",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "130"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#43afff",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#43afff"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "SOBREVIVENDO AO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "50",
+      "positionX": "100",
+      "positionY": "120"
+    },
+    "bigText": {
+      "text": "PRIMEIRO DIA",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "210"
+    }
+  },
+  {
+    "title": {
+      "text": "OXYGEN NOT INCLUDED",
+      "fontColor": "#f4c4ce",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "100"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#f4c4ce",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#f4c4ce"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "50",
+      "positionX": "100",
+      "positionY": "120"
+    },
+    "bigText": {
+      "text": "PRIMEIROS DIAS",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "210"
+    }
+  },
+  {
+    "title": {
+      "text": "LORDS & VILLEINS",
+      "fontColor": "#5FACD0",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "110"
+    },
+    "episode": {
+      "text": "01",
+      "fontColor": "#5FACD0",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame",
+      "color": "#5FACD0"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "gradient",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(0,0,50,0.4)",
+      "color2": "rgba(50,0,0,0.3)"
+    },
+    "smallText": {
+      "text": "COMEÇAR NO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "255"
+    },
+    "bigText": {
+      "text": "COMO",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "160"
+    }
+  },
+  {
+    "title": {
+      "text": "Fortnite Lego",
+      "fontColor": "#5FACD0",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "110"
+    },
+    "episode": {
+      "text": "0",
+      "fontColor": "#5FACD0",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": {
+      "frameType": "frame-noep",
+      "color": "#f4ff39"
+    },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "gradient",
+      "color": "rgba(0,0,0,0.5)",
+      "color1": "rgba(50,0,0,0.1)",
+      "color2": "rgba(0,0,50,0.1)"
+    },
+    "smallText": {
+      "text": "",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "255"
+    },
+    "bigText": {
+      "text": "",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "160"
+    }
+  },
+  {
+    "title": {
+      "text": "Palworld",
+      "fontColor": "rgb(121,214,223)",
+      "fontBorderColor": "#000000",
+      "fontFamily": "edo",
+      "fontSize": "150"
+    },
+    "episode": {
+      "text": "3",
+      "fontColor": "rgb(121,214,223)",
+      "fontBorderColor": "#000000",
+      "fontFamily": "impact",
+      "fontSize": "150"
+    },
+    "frame": { "frameType": "frame", "color": "rgb(121,214,223)" },
+    "background": {
+      "url": "/assets/images/defaults/factorio.jpg"
+    },
+    "backgroundShadow": {
+      "type": "solid",
+      "color": "rgba(0,0,0,0.1)",
+      "color1": "rgba(0,0,0,0.5)",
+      "color2": "rgba(0,0,0,0.5)"
+    },
+    "smallText": {
+      "text": "SHINY?? APARECEU UM PAL",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "50",
+      "positionX": "100",
+      "positionY": "120"
+    },
+    "bigText": {
+      "text": "BRILHANTE!",
+      "fontFamily": "impact",
+      "fontColor": "#ffffff",
+      "fontBorderColor": "#000000",
+      "fontSize": "100",
+      "positionX": "100",
+      "positionY": "210"
+    }
+  }
+]

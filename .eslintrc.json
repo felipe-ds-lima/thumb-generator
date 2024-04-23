@@ -1,0 +1,9 @@
+{
+    "extends": [
+        "plugin:react/recommended",
+        "@felipe-ds-lima/eslint-config/react-config"
+    ],
+    "rules": {
+        "@typescript-eslint/restrict-template-expressions": "off"
+    }
+}
