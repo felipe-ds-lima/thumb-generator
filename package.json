@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.0"
   },
   "devDependencies": {
-    "@felipe-ds-lima/eslint-config": "^1.1.1",
+    "@felipe-ds-lima/eslint-config": "^1.2.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
@@ -26,7 +26,7 @@
     "@types/styled-components": "^5.1.26",
     "eslint": "^8.45.0",
     "prettier": "^2.8.8",
-    "typescript": "^5.1.6"
+    "typescript": "^5.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
