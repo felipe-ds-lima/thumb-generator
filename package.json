@@ -2,6 +2,7 @@
   "name": "thumb-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://felipe-ds-lima.github.io/thumb-generator",
   "dependencies": {
     "@phosphor-icons/react": "^2.0.10",
     "@testing-library/jest-dom": "^5.14.1",
